@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://play-lh.googleusercontent.com/9rycf89uVflWQHRgAZm4P8GvT5Kpzzsoo77EWjDew0DiMhz3YmZhis5mgiWWWov5lUOr
+image: 
 title: "Minesweeper"
 date: 2023
 published: true
