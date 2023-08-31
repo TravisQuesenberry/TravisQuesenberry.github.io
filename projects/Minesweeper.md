@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/TravisQuesenberry/TravisQuesenberry.github.io/blob/fea67b4d654345446612afeeb4115b1cde03ad7d/img/Minesweeper_Loss.png
+image: [https://github.com/TravisQuesenberry/TravisQuesenberry.github.io/blob/fea67b4d654345446612afeeb4115b1cde03ad7d/img/Minesweeper_Loss.png](https://raw.githubusercontent.com/TravisQuesenberry/TravisQuesenberry.github.io/fea67b4d654345446612afeeb4115b1cde03ad7d/img/Minesweeper_Loss.png)
 title: "Minesweeper"
 date: 2023
 published: true
