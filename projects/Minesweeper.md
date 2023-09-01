@@ -10,7 +10,7 @@ labels:
   - Java
 summary: "Attempt to create minesweeper from scratch using Java"
 ---
-
+<img class="img-fluid" src="../img/Minesweeper_Start.png">
 Trying to practice my knowledge of Jframe and other Java concepts, I attempted to recreate the game Minesweeper.  I used arrays to format and navigate the grid by changing values of the collumn or row values.
 
 
