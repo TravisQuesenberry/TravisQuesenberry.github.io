@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Minesweeper_loss.png
+image: img/MS.png
 title: "Minesweeper"
 date: 2023
 published: true
