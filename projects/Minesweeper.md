@@ -15,6 +15,12 @@ Trying to practice my knowledge of Jframe and other Java concepts, I attempted t
 
 
 Changes to be made:
+
 -Doesn't have "flagging" funtion.
+
 -Doesn't inclide auto reveal of tiles with "0" value.
+
 -No victory screen.
+
+
+Source: 
