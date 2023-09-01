@@ -22,5 +22,4 @@ Changes to be made:
 
 -No victory screen.
 
-
-Source: 
+Source: <a href="https://github.com/TravisQuesenberry/Minesweeper/tree/main"><i class="large github icon "></i>TravisQuesenberry/MinesweeperGame</a>
