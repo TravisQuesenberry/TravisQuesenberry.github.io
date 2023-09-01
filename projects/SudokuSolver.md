@@ -18,4 +18,4 @@ At its core, this Java program is a Sudoku solver. Sudoku, a well-known logic-ba
 
 The program employs a recursive approach to tackle Sudoku puzzles. This recursive methodology is the heart of its solving mechanism. It systematically explores possible values for each empty cell while ensuring that the rules of Sudoku are adhered to. When a conflict arises or a dead-end is reached, the program gracefully backtracks, retracing its steps to explore alternative paths. Through this iterative process, the program ultimately arrives at a valid solution for the Sudoku puzzle.
 
-Source: https://github.com/TravisQuesenberry/SudokuSolver.git
+Source: <a href="[https://github.com/jogarces/ics-313-text-game](https://github.com/TravisQuesenberry/SudokuSolver.git)"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
