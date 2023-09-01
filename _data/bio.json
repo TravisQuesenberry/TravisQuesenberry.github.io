@@ -58,10 +58,6 @@
       "startDate": "2023-09-02",
       "endDate": "2023-09-02",
       "summary": "Made Yakitori",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
     }
   ],
   "references": [
