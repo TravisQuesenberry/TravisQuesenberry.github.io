@@ -7,7 +7,7 @@ date: 2023
 published: true
 labels:
   - C++
-summary: "Attempt to create minesweeper from scratch using Java"
+summary: "Program that calculates the volume and surface area of a cylinder"
 ---
 <img class="img-fluid" src="../img/Image.png">
 This C++ program defines two classes, Circle and Cylinder, to calculate the area of a circle and the surface area and volume of a cylinder with a given height. The program includes constructors, accessor methods, and mutator methods for setting and retrieving the radius and height of the shapes. It also includes error handling to ensure that negative or zero values are adjusted to valid values.
