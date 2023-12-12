@@ -1,0 +1,68 @@
+{
+  "basics": {
+    "name": "Travis Quesenberry",
+    "label": "Student",
+    "picture": "https://github.com/travisQuesenberry.png",
+    "email": "travisqu@hawaii.edu",
+    "phone": "808-747-5444",
+    "website": "https://travisquesenberry.github.io/",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "TravisQuesenberry", "url": "https://github.com/TravisQuesenberry" },
+      { "network": "linkedin", "username": "Travis Quesenberry", "url": "https://www.linkedin.com/in/travis-quesenberry-b5907826b/" }
+    ]
+  },
+  "interests": [
+    { "name": "Computational Economics" },
+    { "name": "Machine Learning" },
+    { "name": "Spearfishing" },
+    { "name": "3D Graphics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-20",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Starbucks",
+      "position": "Baristar",
+      "website": "",
+      "startDate": "2022-08-01",
+      "endDate": "Present",
+      "summary": "Customer Service",
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "The Hawaii United Okinawa Association",
+      "website": "https://huoa.org/",
+      "position": "Cook",
+      "startDate": "2023-09-02",
+      "endDate": "2023-09-02",
+      "summary": "Made Yakitori",
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
