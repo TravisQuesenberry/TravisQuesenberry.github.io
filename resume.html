@@ -14,12 +14,14 @@ layout: home
 
     <div class="row">
       <div class="col">
-        {% capture url %}{{ site.data.bio.basics.website }}{% endcapture %}
-        {% capture label %}{{ site.data.bio.basics.website | remove: "http://" | remove: "https://" }}{% endcapture %}
-        <p class="mb-1">{% include about/social.html url=url name='house' label=label %} </p>
+{% capture website_url %}{{ site.data.bio.basics.website }}{% endcapture %}
+{% capture website_label %}{{ site.data.bio.basics.website | remove: "http://" | remove: "https://" }}{% endcapture %}
+<p class="mb-1">{% include about/social.html url=website_url name='house' label=website_label %}</p>
 
-        {% capture label %}{{ site.data.bio.basics.email }}{% endcapture %}
-        <p class="mb-1">{% include about/social.html url=url name='envelope' label=label %}</p>
+{% capture email_url %}mailto:{{ site.data.bio.basics.email }}{% endcapture %}
+{% capture email_label %}{{ site.data.bio.basics.email }}{% endcapture %}
+<p class="mb-1">{% include about/social.html url=email_url name='envelope' label=email_label %}</p>
+
 
         {% for profile in site.data.bio.basics.profiles %}
           {% capture url %}{{ profile.url }}{% endcapture %}
