@@ -31,4 +31,5 @@ This page posed several key challenges toughout its development but the main iss
 ## Learning Experience 
  Through the Campus Cravings project, you've gained substantial technical insights into Meteor development, frontend design, and MongoDB for database management. Working collaboratively on GitHub honed your project management skills, including CI implementation and issue-driven development. More than technical prowess, you've learned to adapt based on user feedback, considering various majors' perspectives and refining the UI/UX accordingly. This experience highlighted the importance of effective communication, problem-solving, and iterative development. Your ability to understand diverse user needs and document project progress reflects a well-rounded skill set, setting the stage for future enhancements like improved search, vendor profiles, and sorting options. Overall, Campus Cravings provided an immersive learning journey encompassing technical expertise and invaluable soft skills essential for software development.
 
-Source: <a href="(https://campuscravings.github.io/)"><i class="large github icon "></i>Campus Cravings Project Page</a>
+Source: <a href="https://campuscravings.github.io/"><i class="large github icon "></i>Campus Cravings Project Page</a>
+
